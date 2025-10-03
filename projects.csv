@@ -1,0 +1,11 @@
+project_id,project_name,project_budget,start_date,end_date,department_id
+201,Website Overhaul,60000,15/01/2024,30/06/2025,1
+202,Social Media Strategy,45000,20/02/2024,10/09/2025,2
+203,Product Launch,80000,30/03/2024,31/12/2025,3
+204,CRM Integration,50000,20/01/2022,20/01/2023,1
+205,Brand Repositioning,70000,01/04/2022,01/04/2023,2
+206,Mobile App Development,70000,10/06/2024,15/08/2025,1
+207,SEO Optimization,50000,01/08/2024,01/11/2025,2
+208,Customer Support System,55000,15/12/2022,15/12/2022,3
+209,Market Research,30000,25/03/2022,25/03/2023,4
+210,New Marketing Campaign,60000,10/09/2024,10/12/2025,4
