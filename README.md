@@ -46,8 +46,3 @@ The **Upcoming Projects Dashboard** was designed to provide insights such as:
 - Building **interactive dashboards** that highlight important business insights  
 
 ---
-
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
